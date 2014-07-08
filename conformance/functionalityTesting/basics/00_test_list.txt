@@ -1,7 +1,8 @@
 createContext.html
 createProgram.html
 createKernelsInProgram.html
-createBufferValidation.html
+createBufferValidation_sync.html
+createBufferValidation_async.html
 createImageValidation.html
 createCommandQueue.html
 createSampler.html
